@@ -4,7 +4,7 @@ games { 'gta5' }
 
 lua54 'yes'
 
-version '1.0.0'
+version '1.0.1'
 
 server_scripts {
     '@oxmysql/lib/MySQL.lua',
