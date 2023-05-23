@@ -4,5 +4,5 @@ games { 'gta5' }
 
 lua54 'yes'
 
-version '1.0.2'
+version '1.0.3'
 
